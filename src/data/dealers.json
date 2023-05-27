@@ -6,32 +6,31 @@
     "logo": "https://source.unsplash.com/200x200?brandenburg",
     "openingHours": {
       "sunday": {
-        "opening": "",
-        "closing": ""
+        "from": "closed"
       },
       "Monday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Tuesday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Wednesday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Thrusday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Friday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Saturday": {
-        "opening": "10 AM",
-        "closing": "13 PM"
+        "from": "10 AM",
+        "to": "13 PM"
       }
     },
     "address": {
@@ -49,32 +48,31 @@
     "logo": "https://source.unsplash.com/200x200?potsdam",
     "openingHours": {
       "sunday": {
-        "opening": "",
-        "closing": ""
+        "from": "closed"
       },
       "Monday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Tuesday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Wednesday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Thrusday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Friday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Saturday": {
-        "opening": "10 AM",
-        "closing": "13 PM"
+        "from": "10 AM",
+        "to": "13 PM"
       }
     },
     "address": {
@@ -92,32 +90,31 @@
     "logo": "https://source.unsplash.com/200x200?friedrichshain",
     "openingHours": {
       "sunday": {
-        "opening": "",
-        "closing": ""
+        "from": "closed"
       },
       "Monday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Tuesday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Wednesday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Thrusday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Friday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Saturday": {
-        "opening": "10 AM",
-        "closing": "13 PM"
+        "from": "10 AM",
+        "to": "13 PM"
       }
     },
     "address": {
@@ -135,32 +132,31 @@
     "logo": "https://source.unsplash.com/200x200?charlottenburg",
     "openingHours": {
       "sunday": {
-        "opening": "",
-        "closing": ""
+        "from": "closed"
       },
       "Monday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Tuesday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Wednesday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Thrusday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Friday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Saturday": {
-        "opening": "10 AM",
-        "closing": "13 PM"
+        "from": "10 AM",
+        "to": "13 PM"
       }
     },
     "address": {
@@ -178,32 +174,31 @@
     "logo": "https://source.unsplash.com/200x200?engelskirchen",
     "openingHours": {
       "sunday": {
-        "opening": "",
-        "closing": ""
+        "from": "closed"
       },
       "Monday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Tuesday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Wednesday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Thrusday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Friday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Saturday": {
-        "opening": "10 AM",
-        "closing": "13 PM"
+        "from": "10 AM",
+        "to": "13 PM"
       }
     },
     "address": {
@@ -221,32 +216,31 @@
     "logo": "https://source.unsplash.com/200x200?munich",
     "openingHours": {
       "sunday": {
-        "opening": "",
-        "closing": ""
+        "from": "closed"
       },
       "Monday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Tuesday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Wednesday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Thrusday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Friday": {
-        "opening": "10 AM",
-        "closing": "17 PM"
+        "from": "10 AM",
+        "to": "17 PM"
       },
       "Saturday": {
-        "opening": "10 AM",
-        "closing": "13 PM"
+        "from": "10 AM",
+        "to": "13 PM"
       }
     },
     "address": {
